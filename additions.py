@@ -1,1 +1,1 @@
-gryfrygry
+print('Hello!')
