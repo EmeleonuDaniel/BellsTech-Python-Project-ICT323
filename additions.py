@@ -1,1 +1,2 @@
-print('Hello!')
+import pygame
+from constants import *
