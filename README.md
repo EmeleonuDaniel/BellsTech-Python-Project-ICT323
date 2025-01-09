@@ -28,7 +28,7 @@ This repository contains the implementation of a chess game developed as part of
 
 ## Installation
 
-To run this project, you'll need Python installed on your machine. Here are the steps to set up the environment:
+To run this project, you'll need Python installed on your computer. Here are the steps to set up the environment:
 
 1. **Clone the repository:**
    ```Terminal
@@ -40,18 +40,30 @@ To run this project, you'll need Python installed on your machine. Here are the 
 
 3. **Install dependencies:**
    ```Terminal
-        pip install pygame  ;for Windows operating systems
-        pip3 install pygame ;for Mac OS X
+        pip install pygame
+    ```Terminal
+        pip3 install pygame
 
 4. **Run the game:**
    ```Terminal
-        python main.py  ;for Windows operating systems
-        python3 main.py  ;for Mac OS X
+        python main.py
+   ```Terminal
+        python3 main.py
+
+## Project Structure
+
+BellsTech-Python-Project-ICT323/
+│
+├── main.py              # Main script to run the game
+├── constants.py         # Defines board setup
+├── additions.py         # Manages logic and advanced gameplay features
+├── assets/images        # Chess piece images
+            ├── black bishop.png
+            └── ...
 
 
-### **Usage**
+## Acknowledgments
 
-```markdown
-## Usage
-
-- Use the mouse to select and move pieces on the board.
+- Thanks to [Pygame](https://www.pygame.org) for the game development library.
+- Inspiration from various open-source chess projects.
+- Bells University of Technology for providing this project opportunity.
