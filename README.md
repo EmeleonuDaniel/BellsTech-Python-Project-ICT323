@@ -41,25 +41,11 @@ To run this project, you'll need Python installed on your computer. Here are the
 3. **Install dependencies:**
    ```Terminal
         pip install pygame
-    ```Terminal
-        pip3 install pygame
 
 4. **Run the game:**
    ```Terminal
         python main.py
-   ```Terminal
-        python3 main.py
 
-## Project Structure
-
-BellsTech-Python-Project-ICT323/
-│
-├── main.py              # Main script to run the game
-├── constants.py         # Defines board setup
-├── additions.py         # Manages logic and advanced gameplay features
-├── assets/images        # Chess piece images
-            ├── black bishop.png
-            └── ...
 
 
 ## Acknowledgments
