@@ -15,7 +15,7 @@ This repository contains the implementation of a chess game developed as part of
   - Afolabi Fareedah    2022/11106
   - Ogbonna Meg         2022/11570
   - Ukor Geraldine      2022/11935
-  - Ilyasdelaw
+  - Lawal Ilyasdelaw    2022/11169
 - **Project Topic:** Chess Game
 - **Presentation:** Ater Examinations
 
