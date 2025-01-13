@@ -10,11 +10,11 @@ This repository contains the implementation of a chess game developed as part of
 - **Course:** ICT323 - Python Software Development
 - **Team**: 70-75
 - **Contributors:** 
-  - Daniel Onuchukwu
-  - Oladunjoye Favour
-  - Fareedah
-  - Meg
-  - Geraldine
+  - Daniel Onuchukwu    2022/11529
+  - Oladunjoye Favour   2022/11380
+  - Afolabi Fareedah    2022/11106
+  - Ogbonna Meg         2022/11570
+  - Ukor Geraldine      2022/11935
   - Ilyasdelaw
 - **Project Topic:** Chess Game
 - **Presentation:** Ater Examinations
@@ -23,7 +23,7 @@ This repository contains the implementation of a chess game developed as part of
 
 - **Graphical User Interface (GUI):** Implemented with Pygame.
 - **Standard Chess Rules:** Full implementation including special moves.
-- **AI Opponent:** Basic AI with difficulty settings.
+- **AI Opponent:** Basic AI with difficulty.
 - **Checkmate Detection:** Alerts player when in check/checkmate.
 
 ## Installation
